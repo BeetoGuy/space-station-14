@@ -43,3 +43,6 @@ reagent-desc-fourteen-loko = A highly processed liquid substance barely-passing 
 reagent-name-shamblers-juice = Shambler's Juice
 reagent-desc-shamblers-juice = ~Shake me up some of that Shambler's Juice!~
 
+reagent-name-baja-blast = Baja Blast
+reagent-desc-baja-blast = Space Mountain Wind's most exclusive blend, imported from that one planet with all the bugs.
+

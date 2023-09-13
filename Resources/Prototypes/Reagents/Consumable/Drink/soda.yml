@@ -168,3 +168,13 @@
   physicalDesc: reagent-physical-desc-fizzy
   flavor: metallic
   color: "#66538F"
+
+- type: reagent
+  id: BajaBlast
+  name: reagent-name-baja-blast
+  parent: BaseSoda
+  desc: reagent-desc-baja-blast
+  physicalDesc: reagent-physical-desc-fizzy
+  flavor: soda
+  color: "#63FFE0"
+  

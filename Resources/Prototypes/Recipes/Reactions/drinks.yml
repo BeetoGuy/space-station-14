@@ -891,3 +891,13 @@
       amount: 1
   products:
     Cola: 4
+
+- type: reaction
+  id: BajaBlast
+  reactants:
+    JuiceLime:
+      amount: 1
+    SpaceMountainWind:
+      amount: 2
+  products:
+    BajaBlast: 3

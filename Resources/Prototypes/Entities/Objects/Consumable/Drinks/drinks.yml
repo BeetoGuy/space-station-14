@@ -2186,3 +2186,20 @@
               Quantity: 30
     - type: Sprite
       sprite: Objects/Consumable/Drinks/the_martinez.rsi
+
+- type: entity
+  parent: DrinkGlassBase
+  id: DrinkBajaBlastGlass
+  name: baja blast glass
+  description: Many brave space marines sacrificed their lives to mine this from the Baja Blast planet.
+  components:
+  - type: SolutionContainerManager
+    solutions:
+      drink:
+        maxVol: 30
+        reagents:
+        - ReagentId: BajaBlast
+          Quantity: 30
+  - type: Drink
+  - type: Sprite
+    sprite: Objects/Consumable/Drinks/space_mountain_wind_glass.rsi
